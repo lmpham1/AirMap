@@ -9,6 +9,7 @@ How to run AirMap:
 
 2. Using command lines:
 	Extract the jar file: > jar xvf AirMap-0.1.1.jar
+	
 	Run the main method:  > java com.btp400.app.WindowApp
 
 *Note: 
